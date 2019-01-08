@@ -1,6 +1,3 @@
-import sys
-sys.path.insert(1, '/users/praneet/anaconda3/lib/site-packages')
-
 from requests import get
 from requests.exceptions import RequestException
 from contextlib import closing
