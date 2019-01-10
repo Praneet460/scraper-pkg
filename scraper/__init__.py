@@ -1,3 +1,4 @@
 __all__ = [
-    'request_setup'
+    'request_setup',
+    'scrap_links'
 ]
